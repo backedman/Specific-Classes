@@ -1,0 +1,5 @@
+Restrict yourself to a single damage type! Makes all the other damage types weaker.
+ex. If you pick melee, melee damage will remain normal, but everything else only does 0.5x the damage.
+This allows you to restrict yourself to one class, while still being able to use weapons from others for things like mobility or major benefits at a VERY reduced rate.
+
+

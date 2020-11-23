@@ -1,0 +1,2 @@
+C:\Users\backe\Desktop\specificclasses\obj\Debug\specificclasses.csprojAssemblyReference.cache
+C:\Users\backe\Desktop\specificclasses\obj\Debug\specificclasses.csproj.CoreCompileInputs.cache
